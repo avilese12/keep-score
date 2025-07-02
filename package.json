@@ -1,0 +1,23 @@
+{
+    "name": "keep-score",
+    "version": "1.0.0",
+    "description": "This is to make scoring apps for the different games I play",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "volleyball",
+      "tennis",
+      "badminton",
+      "pickleball",
+      "magic",
+      "the",
+      "gathering",
+      "html",
+      "js",
+      "css"
+    ],
+    "author": "Eduardo Aviles",
+    "license": "ISC"
+  }
